@@ -18,9 +18,10 @@ AI Engine: GitHub Copilot (Logic generation & UI scaffolding)
 
 1. Clone the repository:
    `git clone https://github.com/towfique-pranto/bpi-react.git`
+2. Change Directories:
    `cd bpi-react`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
 
 ## License
 
